@@ -21,7 +21,8 @@ namespace Pantry
             DependencyService.Register<LoginService, LoginService>();
             DependencyService.Register<HttpClient>();
             DependencyService.RegisterSingleton(proxy.CreateInterfaceProxyWithTarget<IDataHandler<EventArgs>>(new DataHandlerAPI(), new DataHandlerInterceptor()));
-            MainPage = new LoginPage();
+            //MainPage = new LoginPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

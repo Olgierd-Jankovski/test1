@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Univerity\\III Semestras\\PSI\\PSI-project\\Pantry\\Pantry\\Pantry.csproj": {}
+    "C:\\Users\\olgie\\Desktop\\psi2\\PSI-project\\Pantry\\Pantry\\Pantry.csproj": {}
   },
   "projects": {
-    "C:\\Univerity\\III Semestras\\PSI\\PSI-project\\Pantry\\Pantry\\Pantry.csproj": {
+    "C:\\Users\\olgie\\Desktop\\psi2\\PSI-project\\Pantry\\Pantry\\Pantry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Univerity\\III Semestras\\PSI\\PSI-project\\Pantry\\Pantry\\Pantry.csproj",
+        "projectUniqueName": "C:\\Users\\olgie\\Desktop\\psi2\\PSI-project\\Pantry\\Pantry\\Pantry.csproj",
         "projectName": "Pantry",
-        "projectPath": "C:\\Univerity\\III Semestras\\PSI\\PSI-project\\Pantry\\Pantry\\Pantry.csproj",
-        "packagesPath": "C:\\Users\\adminas\\.nuget\\packages\\",
-        "outputPath": "C:\\Univerity\\III Semestras\\PSI\\PSI-project\\Pantry\\Pantry\\obj\\",
+        "projectPath": "C:\\Users\\olgie\\Desktop\\psi2\\PSI-project\\Pantry\\Pantry\\Pantry.csproj",
+        "packagesPath": "C:\\Users\\olgie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olgie\\Desktop\\psi2\\PSI-project\\Pantry\\Pantry\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adminas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\olgie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,7 +91,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

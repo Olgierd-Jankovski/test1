@@ -43,8 +43,8 @@ namespace BackendAPI.Controllers
         [HttpPost]
         [ProducesResponseType(StatusCodes.Status201Created)]
         public async Task<IActionResult> CreateProduct(Product product)
-        {
-            await _dbContext.Products.AddAsync(product);
+        {   
+            await _dbContext.Products.AddAsync(product);   
             await _dbContext.SaveChangesAsync();
 
             return CreatedAtAction(nameof(GetById), new {id = product.Id}, product);
